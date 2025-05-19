@@ -19,13 +19,26 @@
     </head>
 
     <body>
-        <header>
-            <!-- place navbar here -->
-        </header>
-        <main></main>
-        <footer>
-            <!-- place footer here -->
-        </footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            Inicio Sesion
+                        </div>
+                        <div class="card-body">
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
         <!-- Bootstrap JavaScript Libraries -->
         <script
             src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
